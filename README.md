@@ -1,5 +1,5 @@
 ## Table of contents
-* [General info](#general-info)
+* [General info](https://docs.google.com/document/d/1NJxNR_-Qa8qtFmrznDa4LUXbvZxcUkwBRXsFlGTPEg8/edit?pli=1)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
